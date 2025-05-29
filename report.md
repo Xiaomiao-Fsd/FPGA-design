@@ -251,4 +251,4 @@ endmodule
 ## 4. 仿真波形结果
 波形如下图所示：
 
-![LED_Matrix]([E:\FPGA\LED_Matrix.png](https://github.com/Xiaomiao-Fsd/FPGA-design/blob/main/Code%20and%20page/LED_Matrix.png)"波形图")
+![LED_Matrix](https://github.com/Xiaomiao-Fsd/FPGA-design/blob/main/Code%20and%20page/LED_Matrix.png)
